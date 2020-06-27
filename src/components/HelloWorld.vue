@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       你好
-      For a guide and recipes daadadadadadadadadadadadadadadadadad on how to configure / customize this project,<br>
+      For a guide and recipes dadadadadadad on how to configure / customize this project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
