@@ -7,8 +7,6 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@master # 将代码拷贝到虚机中
-      with:
-        path: vue-actions-deploy 
 
     - name: Build And Deploy
       uses: JamesIves/github-pages-deploy-action@master 
